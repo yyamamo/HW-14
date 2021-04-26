@@ -9,5 +9,5 @@
    ### Batch size 2 loss: 0.0094
    ### Batch size 3 loss: 0.0068
    ### The loss % with batch size 1 is already less than 5%. It becomes less than 1% by changing the bach size to 2. 
-   ### Thus, the batch size 1 or 2 should be acceptable for the closing price model.        
+   ### Thus, the batch size 1 or 2 should be acceptable for this closing price model.        
    
