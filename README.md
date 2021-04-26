@@ -2,7 +2,8 @@
 ## Evaluation of the models
 ## The closing price model works better than the fng model since the closing price model has a lower loss value. 
  ## Experiment with window sizes 
- Smaller window size works best for the closing price model. The closing price model with Windo=1 has the lower loss % than that with window=10.
+   ### Smaller window size works best for the closing price model. 
+   ### The closing price model with Windo=1 has the lower loss % than that with window=10.
 
 ### Experiment with batch sizes
    ### Batch size 1 loss: 0.0120
