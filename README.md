@@ -13,5 +13,6 @@
    ### Changing to 3 makes the loss value further down. However, the declining amount from 2 to 3 
    ### is not as much as it happened from 1 to 2.
 
-# In conclusion, the closing price model with window_size = 1 and batch size = 2 would be the best model in this case. 
+## In conclusion, 
+## the closing price model with window_size = 1 and batch size = 2 would be the best model in this case. 
    
